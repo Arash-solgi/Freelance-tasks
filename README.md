@@ -13,4 +13,4 @@ The project should include the introduction, describing the data, visualizations
 
 
 
-I got this project 7 months ago from one company in China and I wanted to share my code and experience with you and I hope you will like i.
+I got this project 7 months ago from one company in China and I wanted to share my code and experience with you and I hope you will like it.
